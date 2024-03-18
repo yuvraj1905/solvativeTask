@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Search Places
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Key Details
+
+- Built with React, Vanilla JS, and vanilla CSS.
+- Search for cities of india in searchbar. (Debounced.)
+- Paginated results
+- Ability to view as many items as user want on a page.
+- Responsive , and more.
 
 ## Available Scripts
 
