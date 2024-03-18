@@ -1,5 +1,7 @@
 # Search Places
 
+[Live link to Project:](https://solvativetask.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Key Details
